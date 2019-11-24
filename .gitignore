@@ -1,0 +1,6 @@
+.vs/
+*.sln
+*.pyproj
+
+/data
+/results
